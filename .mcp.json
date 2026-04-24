@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hexia-workspace": {
+      "type": "http",
+      "url": "https://api.hexia.dev/mcp/message"
+    }
+  }
+}

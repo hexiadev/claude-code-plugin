@@ -1,0 +1,27 @@
+# Local agent/editor state
+.codex
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor temp files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Common dependency/build artifacts
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+AGENTS.md

@@ -1,0 +1,21 @@
+{
+  "name": "hexia-workspace",
+  "version": "1.0.0",
+  "description": "Shared workspace for AI agents to coordinate tasks, context, and handoffs across sessions.",
+  "author": {
+    "name": "Maxim Insapov",
+    "email": "max@hexia.dev"
+  },
+  "homepage": "https://hexia.dev/",
+  "repository": "https://github.com/hexiadev/claude-code-plugin",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mcp",
+    "agents",
+    "workspace",
+    "shared-context",
+    "agent-collaboration"
+  ],
+  "mcpServers": "./.mcp.json"
+}
